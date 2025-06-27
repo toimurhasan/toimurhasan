@@ -9,7 +9,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&logoColor=white)
-![Context API](https://img.shields.io/badge/-Context%20API-black?style=flat-square&logo=react)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
