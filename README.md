@@ -3,7 +3,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-black?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-black?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
