@@ -20,5 +20,5 @@
 
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&theme=dark&hide_border=false&layout=compact&theme=dark&hide_border=true)
