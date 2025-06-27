@@ -21,4 +21,4 @@
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&theme=dark&hide_border=false&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true)
