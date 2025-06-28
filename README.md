@@ -2,7 +2,7 @@
 
 I'm currently an English Literature student who discovered joy in coding. While studying literature sharpened my communication skills, I realized I needed to let my inborn inclination toward **system building** flourish. That led me to dive deep into the world of web application development, particularly, working with the MERN stack.
 
-🧠 As an INTJ, I love designing systems from scratch, iterating over and over until every piece looks just like what I had imagined. My work blends technical precision with conceptual clarity—whether I’m building a collaborative study platform like **PeerSolve** or a community-based hobby app like <a href="https://hobbyhub-tamim.web.app/">HobbyHub</a>.
+🧠 As an INTJ, I love designing systems from scratch, iterating over and over until every piece looks just like what I had imagined. My work blends technical precision with conceptual clarity—whether I’m building a collaborative study platform like **PeerSolve** or a community-based hobby app like <strong><a href="https://hobbyhub-tamim.web.app/">HobbyHub</a></strong>.
 
 🔭 I’m currently focused on mastering **React** and evolving as a full-stack engineer, with the long-term goal of **changing the world**, one line of code at a time.
 
