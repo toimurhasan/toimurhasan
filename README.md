@@ -35,6 +35,6 @@ I'm currently an English Literature student who discovered joy in coding. While 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
-## 📊 Progress
+## 📊 My Progress
 ![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true)
