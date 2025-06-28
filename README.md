@@ -10,12 +10,12 @@ I'm currently an English Literature student who discovered joy in coding. While 
 
 📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *deep metaphors* live both within poetry and great product design.
 
-## 🧭 What I Believe
+## 🧭 Philosophy
 > *Follow your bliss.*  
 > — *Joseph Campbell*
 
 
-## 💻 What I Use
+## 💻 Tools and Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -35,6 +35,6 @@ I'm currently an English Literature student who discovered joy in coding. While 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
-## 📊 See My Progress
+## 📊 Progress
 ![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true)
