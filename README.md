@@ -21,7 +21,6 @@ I'm currently an English Literature student who discovered joy in coding. While 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&logoColor=white)
