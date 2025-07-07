@@ -1,19 +1,21 @@
-<h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
+<h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
-I'm a self-taught web developer with a strong drive for building robust, user-centric applications. Over time, I’ve developed a deep interest in **system design**, which naturally led me into full-stack development—particularly the **MERN stack**.
+I'm currently an English Literature student who discovered joy in coding. While studying literature sharpened my communication skills, I realized I needed to let my inborn inclination toward **system building** flourish. That led me to dive deep into the world of web application development, particularly, working with the MERN stack.
 
-🧠 As an INTJ, I thrive on designing and refining systems. I enjoy breaking down complex problems, structuring scalable solutions, and polishing every detail until it clicks. Whether it's a collaborative study tool like <strong><a href="https://peersolve.web.app/">PeerSolve</a></strong> or a social platform like <strong><a href="https://hobbyhub-tamim.web.app/">HobbyHub</a></strong>, I build products that are as thoughtful as they are functional.
+🧠 As an INTJ, I love designing systems from scratch, iterating over and over until every piece looks just like what I had imagined. My work blends technical precision with conceptual clarity—whether I’m building a collaborative study platform like <strong><a href="https://peersolve.web.app/">PeerSolve</a></strong> or a community-based hobby app like <strong><a href="https://hobbyhub-tamim.web.app/">HobbyHub</a></strong>.
 
-🔭 I’m currently focused on mastering **React** and expanding my capabilities as a full-stack engineer, with the long-term goal of making meaningful contributions to the world—one project at a time.
+🔭 I’m currently focused on mastering **React** and evolving as a full-stack engineer, with the long-term goal of **changing the world**, one line of code at a time.
 
 ---
 
-📫 Feel free to connect if you're into React architecture, system thinking, or just want to talk about turning great ideas into functional apps.
+📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *metaphors* live both within poetry and great product design.
 
 ## 🧭 Philosophy
 > *Follow your bliss.*  
 > — *Joseph Campbell*
 
+
+Edit this whole readme.md from my github profile. Make it so that it there is no mention of my studying english in the story. I want it to be generic. I realized recruters don't care about my education of English lit. So i will put that out of the picture and focus solely on tech knowledge
 
 ## 💻 Tools and Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
