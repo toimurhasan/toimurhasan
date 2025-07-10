@@ -15,8 +15,6 @@ I'm currently an English Literature student who discovered joy in coding. While 
 > — *Joseph Campbell*
 
 
-Edit this whole readme.md from my github profile. Make it so that it there is no mention of my studying english in the story. I want it to be generic. I realized recruters don't care about my education of English lit. So i will put that out of the picture and focus solely on tech knowledge
-
 ## 💻 Tools and Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)
