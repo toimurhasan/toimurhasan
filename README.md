@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co.com/1GFWpf6G/banner.png">
+
 <h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
 I'm currently an English Literature student who discovered joy in coding. While studying literature sharpened my communication skills, I realized I needed to let my inborn inclination toward **system building** flourish. That led me to dive deep into the world of web application development, particularly, working with the MERN stack.
