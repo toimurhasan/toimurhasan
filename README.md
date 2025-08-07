@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/1GFWpf6G/banner.png">
+<img src="https://i.ibb.co.com/R4YXkLTf/banner.png">
 
 <h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
