@@ -10,7 +10,7 @@ I'm currently an English Literature student who discovered joy in coding. While 
 
 ---
 
-📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *metaphors* live both within poetry and great product design.
+📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *metaphors* live both within poetry and great product design. (Phone: +8801720911179)
 
 ## 🧭 Philosophy
 > *Follow your bliss.*  
