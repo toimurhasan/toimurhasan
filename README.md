@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/toimurhasan/toimurhasan/blob/main/banner.png" alt="Banner" width="600" />
-</p>
-
+![Banner](https://github.com/toimurhasan/toimurhasan/blob/main/banner.png)
 
 <h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
