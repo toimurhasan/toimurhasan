@@ -1,4 +1,6 @@
-![Banner](https://github.com/toimurhasan/toimurhasan/blob/main/banner.png)
+<p align="center">
+  <img src="./screenshot.png" width="600" />
+</p>
 
 <h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
