@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./screenshot.png" width="600" />
+  <img src="https://github.com/toimurhasan/toimurhasan/blob/main/banner.png" alt="Banner" width="800" />
 </p>
+
 
 <h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
