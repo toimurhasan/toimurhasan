@@ -12,7 +12,7 @@ I'm currently an English Literature student who discovered joy in coding. While 
 
 <div align="center">
   
-## 💻 Technologies
+## Technologies
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ I'm currently an English Literature student who discovered joy in coding. While 
 
 <div align="center">
 
-## 📊 My Progress
+## Progress
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true" />
