@@ -3,7 +3,7 @@
 <div align="center">
 <b> Frontend Developer @ Asian IT Inc </b> <br>
 React | MERN stack | Web Development <br>
-⚡ Focused on scalable apps & clean architecture
+Focused on scalable apps & clean architecture
 </div>
 
 <div align="center">
