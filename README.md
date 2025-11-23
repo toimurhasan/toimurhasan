@@ -37,7 +37,6 @@ I'm currently an English Literature student who discovered joy in coding. While 
 ## 📊 My Progress
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true" />
 
 </div>
