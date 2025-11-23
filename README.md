@@ -1,7 +1,9 @@
 <h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
 <b> Frontend Developer @ Asian IT Inc </b>
+<br>
 React | MERN stack | Web Development
+<br>
 ⚡ Focused on scalable apps & clean architecture
 
 <div align="center">
