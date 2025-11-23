@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
-I'm an English Literature student turned web developer, passionate about building systems and web applications with the MERN stack. I blend technical precision with conceptual clarity—whether it's a collaborative platform like <a href="https://peersolve.web.app/">PeerSolve</a> or a community hobby app like <a href="https://hobbyhub-tamim.web.app/">HobbyHub</a>.
+I'm an English Literature student turned web developer, passionate about building systems and web applications with the MERN stack.
 
 🔭 Currently focused on React and full-stack development, aiming to make an impact through code.
 
