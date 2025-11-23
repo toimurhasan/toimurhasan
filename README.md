@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
 <div align="center">
-<strong>Frontend Developer @ <a href="https://github.com/asianitinc">Asian IT Inc</a></strong> <br>
+<strong>Frontend Developer @ <a href="https://github.com/asianitinc" style="text-decoration: none; color: inherit;">Asian IT Inc</a></strong> <br>
 TailwindCSS | Redux | Next.js | TypeScript <br>
 Focused on scalable apps & clean architecture
 </div>
