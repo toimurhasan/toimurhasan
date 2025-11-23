@@ -27,7 +27,8 @@ Focused on scalable apps & clean architecture
 
 ## Progress
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark&background=%23121212&stroke=%23ffffff&ring=%2366fcf1&fire=%23ff6a00&currStreakLabel=%23ffffff&currStreakNum=%23ff6a00&sideNums=%23ffffff&sideLabels=%23aaaaaa" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true" />
 
 </div>
