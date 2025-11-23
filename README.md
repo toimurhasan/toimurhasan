@@ -1,14 +1,11 @@
-<h2 align="center">Hi there 👋, It's <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
+<h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
-I'm currently an English Literature student who discovered joy in coding. While studying literature sharpened my communication skills, I realized I needed to let my inborn inclination toward **system building** flourish. That led me to dive deep into the world of web application development, particularly, working with the MERN stack.
+I'm an English Literature student turned web developer, passionate about building systems and web applications with the MERN stack. I blend technical precision with conceptual clarity—whether it's a collaborative platform like <a href="https://peersolve.web.app/">PeerSolve</a> or a community hobby app like <a href="https://hobbyhub-tamim.web.app/">HobbyHub</a>.
 
-🧠 As an INTJ, I love designing systems from scratch, iterating over and over until every piece looks just like what I had imagined. My work blends technical precision with conceptual clarity—whether I’m building a collaborative study platform like <strong><a href="https://peersolve.web.app/">PeerSolve</a></strong> or a community-based hobby app like <strong><a href="https://hobbyhub-tamim.web.app/">HobbyHub</a></strong>.
+🔭 Currently focused on React and full-stack development, aiming to make an impact through code.
 
-🔭 I’m currently focused on mastering **React** and evolving as a full-stack engineer, with the long-term goal of **changing the world**, one line of code at a time.
-
----
-
-📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *metaphors* live both within poetry and great product design. (Phone: <a href="tel:+8801720911179">+8801720911179</a>)
+📫 Let's talk React architecture, tech trends, or how metaphors shape both poetry and product design.
+Phone: <a href="tel:+8801720911179">+8801720911179</a>
 
 <div align="center">
   
