@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
+<h2 align="center">Hi there 👋, I'm <a href="">Tamim</a></h2>
 
 <div align="center">
 <strong>Frontend Developer @ Asian IT Inc </strong> <br>
