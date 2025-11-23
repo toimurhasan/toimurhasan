@@ -11,6 +11,7 @@ I'm currently an English Literature student who discovered joy in coding. While 
 📫 Reach out if you want to talk about React architecture, the latest technology trend, or how *metaphors* live both within poetry and great product design. (Phone: <a href="tel:+8801720911179">+8801720911179</a>)
 
 <h2 align="center">🧭 My Philosophy </h2>
+
 > *Follow your bliss.*  
 > — *Joseph Campbell*
 
@@ -31,9 +32,13 @@ I'm currently an English Literature student who discovered joy in coding. While 
 </div>
 
 
-
-
+<div align="center">
 
 ## 📊 My Progress
-![](https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true)
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=toimurhasan&show_icons=true&hide_border=true&theme=dark" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toimurhasan&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
