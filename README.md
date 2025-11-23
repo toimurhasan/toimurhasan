@@ -1,11 +1,8 @@
 <h2 align="center">Hi there 👋, I'm <a href="https://toimur-hasan.web.app/">Tamim</a></h2>
 
-I'm an English Literature student turned web developer, passionate about building systems and web applications with the MERN stack.
-
-🔭 Currently focused on React and full-stack development, aiming to make an impact through code.
-
-📫 Let's talk React architecture, tech trends, or how metaphors shape both poetry and product design.
-Phone: <a href="tel:+8801720911179">+8801720911179</a>
+<b> Frontend Developer @ Asian IT Inc </b>
+React | MERN stack | Web Development
+⚡ Focused on scalable apps & clean architecture
 
 <div align="center">
   
