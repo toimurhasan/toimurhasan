@@ -1,14 +1,11 @@
-<h2 align="center">Hi there 👋, I'm <a href="https://toimurhasan.vercel.app/">Tamim</a></h2>
-
 <div align="center">
+  
+<h2>Hi there 👋, I'm <a href="https://toimurhasan.vercel.app/">Tamim</a></h2>
+
 <strong>Frontend Developer @ Asian IT Inc </strong> <br>
 TailwindCSS | Redux | Next.js | TypeScript <br>
 Focused on scalable apps & clean architecture
-</div>
 
-
-<div align="center">
-  
 ## Technologies
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
