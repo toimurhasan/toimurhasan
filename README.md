@@ -3,7 +3,7 @@
 <h2>Hi there 👋, I'm <a href="https://toimurhasan.vercel.app/">Tamim</a></h2>
 
 <strong>Frontend Developer @ Asian IT Inc </strong> <br>
-TailwindCSS | Redux | Next.js | TypeScript <br>
+TailwindCSS | TypeScript | Redux | Next.js <br>
 Focused on scalable apps & clean architecture
 
 ## Technologies
